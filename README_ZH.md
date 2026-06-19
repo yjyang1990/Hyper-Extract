@@ -285,6 +285,10 @@ he-mcp        # stdio MCP 服务器
 热烈欢迎社区提交 [Issues](https://github.com/yifanfeng97/hyper-extract/issues) 和 [PRs](https://github.com/yifanfeng97/hyper-extract/pulls)。  
 项目基于 **Apache-2.0** 协议开源。
 
+## 🔒 安全认证
+
+本项目已通过 [MseeP.ai](https://mseep.ai/app/yifanfeng97-hyper-extract) 安全审计。
+
 ## ⭐ Star 历史趋势
 
 [![Star History Chart](https://api.star-history.com/svg?repos=yifanfeng97/hyper-Extract&type=Date)](https://star-history.com/#yifanfeng97/hyper-Extract&Date)

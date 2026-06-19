@@ -1,5 +1,3 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/yifanfeng97-hyper-extract-badge.png)](https://mseep.ai/app/yifanfeng97-hyper-extract)
-
 <div align="center">
 
 <a href="https://yifanfeng97.github.io/Hyper-Extract/latest/">
@@ -286,6 +284,10 @@ Tools: `list_templates`, `info`, `search`, `ask` (RAG), `export_obsidian`. Full 
 
 Contributions are welcome! Please submit [Issues](https://github.com/yifanfeng97/hyper-extract/issues) and [PRs](https://github.com/yifanfeng97/hyper-extract/pulls).  
 Licensed under **Apache-2.0**.
+
+## 🔒 Security
+
+This project has been security assessed by [MseeP.ai](https://mseep.ai/app/yifanfeng97-hyper-extract).
 
 ## ⭐ Star History
 
